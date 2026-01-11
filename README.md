@@ -59,7 +59,7 @@ Date: Tue, 08 Aug 2023 17:44:15 +0000
 Return-Path: notificacoes@mercadolivre.br
 X-Sender-IP: 192.53.121.84
 ```
-
+Example dumping attachments:
 ```bash
 $ python3 eioc.py sample1.eml --dump extracted_attachments
 Extracted IP Addresses:
